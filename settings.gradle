@@ -1,0 +1,2 @@
+include ':app', ':lib_app_updata'
+rootProject.name='MavenPrivate'
